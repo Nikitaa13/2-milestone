@@ -1,8 +1,8 @@
 # Travel Blog - Explore the World 🌍
 
 ## 🔗 Live Project
-- [Live Demo]((https://nikitaa13.github.io/2-milestone/))
-- [GitHub Repository]((https://github.com/Nikitaa13/2-milestone))
+- [Live Demo](https://nikitaa13.github.io/2-milestone/)
+- [GitHub Repository](https://github.com/Nikitaa13/2-milestone)
 
 ---
 
