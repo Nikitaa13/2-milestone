@@ -269,7 +269,7 @@ All interactive elements are accessible .
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/cannavaro2010/Milestone02.git
+    git clone https://github.com/Nikitaa13/2-milestone.git
     ```
 2. **Open `index.html` in your browser** or deploy to GitHub Pages.
 
@@ -277,7 +277,7 @@ All interactive elements are accessible .
 
 ## Deployment
 
-- Deployed via **GitHub Pages**: [Live Demo]([YOUR_GITHUB_PAGES_LINK_HERE](https://cannavaro2010.github.io/Milestone02/index.html))
+- Deployed via **GitHub Pages**: [Live Demo]([YOUR_GITHUB_PAGES_LINK_HERE][(https://github.com/Nikitaa13/2-milestone)](https://github.com/Nikitaa13/2-milestone))
 - All code and assets organized in subfolders (`img/`, `css/`, `script/`, `video/`, `screenshots/`).
 - No commented-out code or broken internal links.
 
